@@ -4,4 +4,12 @@ How are you today?
 
 Great Thanks for asking…
 
+<<<<<<< HEAD
+
+=======
+Glad to finally know how to use github!
+
+>>>>>>> cd2104bffd05fa63a1d30ca7d056c37415392c08
+
+
 Pete on the board!
